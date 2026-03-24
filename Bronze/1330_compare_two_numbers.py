@@ -5,7 +5,7 @@
 # Date    : 2026-03-23
 
 # ───────────────────────────────
-# 📌 Approach
+# <Approach>
 # Read two integers and compare them using conditional operators.
 # ───────────────────────────────
 
@@ -19,7 +19,7 @@ elif a > b:
     print(">")
 
 # ───────────────────────────────
-# 📝 Notes
+# <Notes>
 # - Used map(int, input().split()) to parse two integers at once
 # - Used explicit elif instead of else for clarity
 # ───────────────────────────────
